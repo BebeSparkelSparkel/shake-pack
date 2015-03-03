@@ -1,6 +1,6 @@
 name:                shake-pack
 version:             0.1.0
-synopsis:            Shake File Pack Actions
+synopsis:            Shake File Pack Rule
 description:         Shake rule for tar-ing and compressing files with bzip2.
                      Uses bz2 C library on the system.
 homepage:            https://github.com/LukeHoersten/shake-pack
