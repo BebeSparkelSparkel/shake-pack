@@ -3,6 +3,7 @@
 -- @
 -- main :: IO ()
 -- main = shakeArgs shakeOptions $ do
+--     want ["pack.tar.bz2"]
 --     "pack.tar.bz2" *> pack ["ex.txt", "ex2.txt"]
 -- @
 
