@@ -11,6 +11,8 @@ maintainer:          luke@hoersten.org
 category:            Shake, Development
 build-type:          Simple
 cabal-version:       >=1.10
+homepage:            https://github.com/LukeHoersten/shake-pack
+bug-reports:         https://github.com/LukeHoersten/shake-pack/issues
 
 library
   exposed-modules:     Development.Shake.Pack
