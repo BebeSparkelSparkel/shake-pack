@@ -1,5 +1,5 @@
 name:                shake-pack
-version:             0.1.2
+version:             0.2.0
 synopsis:            Shake File Pack Rule
 description:         Shake rule for tar-ing and compressing files with bzip2.
                      Uses bz2 C library on the system.
