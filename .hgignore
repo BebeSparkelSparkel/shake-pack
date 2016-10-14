@@ -3,8 +3,7 @@ syntax: regexp
 \#.*\#$
 \.\#
 \.DS_Store$
-\.cabal-sandbox/
+\.stack-work/
 \.hpc/
 \.tix$
-cabal\.sandbox\.config$
 dist/
